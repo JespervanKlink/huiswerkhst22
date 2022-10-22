@@ -1,0 +1,92 @@
+<-- index -->
+
+.navbar-brand{
+color: #A52A2A;
+}
+
+.navbar .navbar-toggler:focus{
+  color: #ff4444;
+}
+
+.navigatie{
+background-color: #2F4F4F;
+border-radius: 10px;
+}
+
+.jesper{
+  padding-left: 10px;
+  font-family: 'Fuzzy Bubbles', cursive;
+}
+
+.middenstuk  {
+  margin: 50px;
+
+}
+
+.hobbies{
+  text-align: center;
+}
+
+table {
+  margin-bottom: 50px;
+}
+
+
+
+footer{
+
+  max-height: 200px;
+  background-color: #2F4F4F;
+  border-radius: 10px;
+  margin-bottom: 1px;
+
+}
+
+h6{
+  padding-top: 100px;
+  height: 200px;
+  color: white;
+}
+
+body{
+  width: 90%;
+  text-align: center;
+  margin-left: 5%;
+  margin-top: 10px;
+}
+
+<-- Over mij -->
+
+ .middenstuk1{
+margin: 100%;
+
+ }
+
+.h1, .h2, .h3{
+  color: #A52A2A;
+}
+
+<-- Contact -->
+
+.titel{
+  padding: 20px;
+}
+
+.titel1{
+  padding: 20px;
+  color: #A52A2A;
+}
+
+.gegevens{
+  padding: 20px;
+}
+
+.vragen{
+  padding: 20px;
+  color: #A52A2A;
+}
+
+.knop{
+  padding: 20px;
+
+}
